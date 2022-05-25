@@ -1,5 +1,8 @@
 theme: minima
-title: My Blog
+---
+title: "MY-BLOG"
+date: 2022-05-25
+---
 author: Me
 email: My-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
